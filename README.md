@@ -1,6 +1,8 @@
 ## Hi there 👋
-My name is Wonjooon Chang (장원준)!
+My name is Wonjooon Chang / 장원준 !
 - 🎓 I’m currently working on SAILab at KAIST AI.
+- 🤔 I'm interested in the interpretation, analysis, and various applications of Artificial Intelligence (AI).
+- 📫 How to reach me: `one_jj@kaist.ac.kr`
 
 <!--
 **onejoon/onejoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
